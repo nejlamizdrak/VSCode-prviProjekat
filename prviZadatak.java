@@ -1,4 +1,4 @@
-public class DjeljiviSaSumomCifara {
+public class prviZadatak {
  
     public static void main(String[] args) {
         int n=100;
